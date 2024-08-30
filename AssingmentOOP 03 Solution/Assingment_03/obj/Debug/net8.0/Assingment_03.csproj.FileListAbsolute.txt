@@ -1,0 +1,14 @@
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\bin\Debug\net8.0\Assingment_03.exe
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\bin\Debug\net8.0\Assingment_03.deps.json
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\bin\Debug\net8.0\Assingment_03.runtimeconfig.json
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\bin\Debug\net8.0\Assingment_03.dll
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\bin\Debug\net8.0\Assingment_03.pdb
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.AssemblyInfoInputs.cache
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.AssemblyInfo.cs
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.csproj.CoreCompileInputs.cache
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.dll
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\refint\Assingment_03.dll
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.pdb
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\Assingment_03.genruntimeconfig.cache
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\Assingment_03\obj\Debug\net8.0\ref\Assingment_03.dll

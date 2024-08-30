@@ -1,0 +1,14 @@
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\bin\Debug\net8.0\SolutionOfAssignment.exe
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\bin\Debug\net8.0\SolutionOfAssignment.deps.json
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\bin\Debug\net8.0\SolutionOfAssignment.runtimeconfig.json
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\bin\Debug\net8.0\SolutionOfAssignment.dll
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\bin\Debug\net8.0\SolutionOfAssignment.pdb
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.AssemblyInfoInputs.cache
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.AssemblyInfo.cs
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.dll
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\refint\SolutionOfAssignment.dll
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.pdb
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\SolutionOfAssignment.genruntimeconfig.cache
+C:\Users\Sayed\source\repos\AssingmentOOP_03_solution\SoultionOfAssignment\obj\Debug\net8.0\ref\SolutionOfAssignment.dll

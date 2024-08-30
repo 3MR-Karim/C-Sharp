@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{520C7F4B-9FFF-4F99-89E5-D1F755854D38}|Assignment\\Assignment.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\assignment 01 advanced c#\\assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520C7F4B-9FFF-4F99-89E5-D1F755854D38}|Assignment\\Assignment.csproj|solutionrelative:assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{520C7F4B-9FFF-4F99-89E5-D1F755854D38}|Assignment\\Assignment.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\assignment 01 advanced c#\\assignment\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{520C7F4B-9FFF-4F99-89E5-D1F755854D38}|Assignment\\Assignment.csproj|solutionrelative:assignment\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\assignment 01 advanced c#\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\assignment 01 advanced c#\\demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|solutionrelative:demo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\assignment 01 advanced c#\\demo\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|solutionrelative:demo\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\assignment 01 advanced c#\\demo\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90653D30-F05E-4545-8C2C-5604FCEF8442}|Demo\\Demo.csproj|solutionrelative:demo\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Range.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Assignment\\Range.cs",
+              "RelativeDocumentMoniker": "Assignment\\Range.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Assignment\\Range.cs",
+              "RelativeToolTip": "Assignment\\Range.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T21:21:08.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\Program.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Assignment\\Program.cs*",
+              "RelativeToolTip": "Assignment\\Program.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:56:39.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Point.cs",
+              "RelativeDocumentMoniker": "Demo\\Point.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Point.cs",
+              "RelativeToolTip": "Demo\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:54:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Helper.cs",
+              "RelativeDocumentMoniker": "Demo\\Helper.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Helper.cs",
+              "RelativeToolTip": "Demo\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:54:19.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Employee.cs",
+              "RelativeDocumentMoniker": "Demo\\Employee.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Employee.cs",
+              "RelativeToolTip": "Demo\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:54:10.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Demo\\Program.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Assignment 01 Advanced C#\\Demo\\Program.cs",
+              "RelativeToolTip": "Demo\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwKwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:52:13.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

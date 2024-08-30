@@ -1,0 +1,14 @@
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\bin\Debug\net8.0\Assignment 02.exe
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\bin\Debug\net8.0\Assignment 02.deps.json
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\bin\Debug\net8.0\Assignment 02.runtimeconfig.json
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\bin\Debug\net8.0\Assignment 02.dll
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\bin\Debug\net8.0\Assignment 02.pdb
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.AssemblyInfoInputs.cache
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.AssemblyInfo.cs
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.csproj.CoreCompileInputs.cache
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.dll
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\refint\Assignment 02.dll
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.pdb
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\Assignment 02.genruntimeconfig.cache
+D:\.Net Route\Eng Ahmed Amin\04 Advanced C#\Session 02 [Collections]\Assignment\Assignment 02 Advanced C#\Assignment 02\obj\Debug\net8.0\ref\Assignment 02.dll

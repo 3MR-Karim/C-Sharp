@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3E2BA-B054-4DBC-A636-633F6400A3FC}|Access Modifires\\Access Modifires.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\session 02\\assignment 02 oop\\access modifires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D3E2BA-B054-4DBC-A636-633F6400A3FC}|Access Modifires\\Access Modifires.csproj|solutionrelative:access modifires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3E2BA-B054-4DBC-A636-633F6400A3FC}|Access Modifires\\Access Modifires.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\session 02\\assignment 02 oop\\access modifires\\son1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D3E2BA-B054-4DBC-A636-633F6400A3FC}|Access Modifires\\Access Modifires.csproj|solutionrelative:access modifires\\son1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69D3E2BA-B054-4DBC-A636-633F6400A3FC}|Access Modifires\\Access Modifires.csproj|d:\\.net route\\eng ahmed amin\\03 oop\\session 02\\assignment 02 oop\\access modifires\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69D3E2BA-B054-4DBC-A636-633F6400A3FC}|Access Modifires\\Access Modifires.csproj|solutionrelative:access modifires\\father.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Father.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\Access Modifires\\Father.cs",
+              "RelativeDocumentMoniker": "Access Modifires\\Father.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\Access Modifires\\Father.cs",
+              "RelativeToolTip": "Access Modifires\\Father.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:35:29.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Son1.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\Access Modifires\\Son1.cs",
+              "RelativeDocumentMoniker": "Access Modifires\\Son1.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\Access Modifires\\Son1.cs",
+              "RelativeToolTip": "Access Modifires\\Son1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:35:43.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\Access Modifires\\Program.cs",
+              "RelativeDocumentMoniker": "Access Modifires\\Program.cs",
+              "ToolTip": "D:\\.Net Route\\Eng Ahmed Amin\\03 OOP\\Session 02\\Assignment 02 OOP\\Access Modifires\\Program.cs*",
+              "RelativeToolTip": "Access Modifires\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:24:02.005Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
